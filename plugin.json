@@ -1,0 +1,15 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "viraldecoder",
+  "version": "1.0.0",
+  "description": "Find out why a short video went viral and get a script for yours: analyze Instagram Reels, YouTube Shorts and TikTok videos and browse trending videos by niche through the hosted ViralDecoder MCP.",
+  "author": {
+    "name": "ViralDecoder",
+    "email": "support@viraldecoder.online",
+    "url": "https://viraldecoder.online"
+  },
+  "homepage": "https://viraldecoder.online",
+  "repository": "https://github.com/mprilepov/viraldecoder-hermes-plugin",
+  "license": "MIT",
+  "keywords": ["short-video", "reels", "tiktok", "content", "mcp"]
+}
